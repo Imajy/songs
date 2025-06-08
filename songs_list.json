@@ -30,24 +30,14 @@
     "songUri": "path/to/Olha_Me_Patola_1.mp3",
     "imageUrl": "path/to/image3.jpg"
   },
-  {
-    "title": "Demons In My Head",
-    "subtitle": "Chyde",
-    "songUri": "path/to/Demons_In_My_Head.mp3",
-    "imageUrl": "path/to/image4.jpg"
-  },
+  
   {
     "title": "Mere Mehboob Qayamat Hogi",
     "subtitle": "Kishore Kumar, Mr. X In Bombay",
     "songUri": "path/to/Mere_Mehboob_Qayamat_Hogi.mp3",
     "imageUrl": "path/to/image5.jpg"
   },
-  {
-    "title": "My Inner World",
-    "subtitle": "Chyde",
-    "songUri": "path/to/My_Inner_World.mp3",
-    "imageUrl": "path/to/image6.jpg"
-  },
+ 
   {
     "title": "Shake It To The Max (Fly) [Remix]",
     "subtitle": "MOLIY, Shenseea, Skillibeng, Silent Addy",
@@ -72,28 +62,42 @@
     "songUri": "path/to/Konya_Bethu_Rai.mp3",
     "imageUrl": "path/to/image10.jpg"
   },
-  {
-    "title": "Jo Tere Sang",
-    "subtitle": "Blood Money, Kunal Khemu, Mustafa Zahid",
-    "songUri": "path/to/Jo_Tere_Sang.mp3",
-    "imageUrl": "path/to/image11.jpg"
-  },
+  
   {
     "title": "Nazrein Karam",
     "subtitle": "Jashnn (2009)",
     "songUri": "path/to/Nazrein_Karam.mp3",
     "imageUrl": "path/to/image12.jpg"
   },
-  {
-    "title": "KARIZMA",
-    "subtitle": "Guru Randhawa, Renuka Panwar, Jsl Singh",
-    "songUri": "path/to/Karizma.mp3",
-    "imageUrl": "path/to/image13.jpg"
-  },
+ 
   {
     "title": "Zara Sa",
     "subtitle": "Emraan Hashmi, KK, Old Hindi Song",
     "songUri": "path/to/Zara_Sa.mp3",
     "imageUrl": "path/to/image14.jpg"
+  },
+  {
+    "title": "Demons In My Head",
+    "subtitle": "Chyde",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/Chyde%20-%20Demons%20In%20My%20Head%20(Official%20Music%20Video)(MP3_160K).mp3",
+    "imageUrl": "https://imgs.search.brave.com/zmOZH6Ub_stHx4TlbGyG5J3g50q1uXwZ57ZdZ-ckddw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnNj/ZG4uY28vaW1hZ2Uv/YWI2NzYxNmQwMDAw/YjI3Mzg3MzA5ZGY3/MTk0YzQyNWI5Zjc3/NjczNQ"
+  },
+  {
+    "title": "My Inner World",
+    "subtitle": "Chyde",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/Chyde%20-%20My%20Inner%20World%20%5BOfficial%20Lyric%20Video%5D(MP3_160K).mp3",
+    "imageUrl": "https://imgs.search.brave.com/8VeJU-YU1nIynfGrVio8ui0SnVQpEfTUXPaNuGcIEa8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2F2/YXRhcnMtMDAwNjE1/MjQ4MDI4LXhmYXdx/ai10NTAweDUwMC5q/cGc"
+  },
+  {
+    "title": "Jo Tere Sang",
+    "subtitle": "Kunal Khemu, Mustafa Zahid",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/Jo%20Tere%20Sang%20-%20Blood%20Money%20_%20Official%20Music%20Video%20_%20Kunal%20Khemu%20_%20Mustafa%20Zahid(MP3_160K).mp3",
+    "imageUrl": "https://imgs.search.brave.com/tQ7f7VAP6-ezUuQm7Ygqr_tk3uTfLpeZa75UKJypriM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnNj/ZG4uY28vaW1hZ2Uv/YWI2NzYxNmQwMDAw/YjI3MzBjY2NhMmY0/OWJjZGFjNTQ5MWU0/N2IxYQ"
+  },
+  {
+    "title": "KARIZMA",
+    "subtitle": "Guru Randhawa, Renuka Panwar, JSL Singh",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/KARIZMA%20-%20Guru%20Randhawa%20ft.%20Renuka%20Panwar%20_%20Jsl%20Singh(MP3_160K).mp3",
+    "imageUrl": "https://imgs.search.brave.com/lvQivm0actrm15nBvxTedD73E4FiWUHfD9G1RKac5pM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLWVaTGhJ/d3o0NkJZYS0wLXQx/MDgweDEwODAuanBn"
   }
 ]
