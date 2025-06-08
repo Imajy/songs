@@ -17,64 +17,11 @@
     "songUri": "path/to/Kiya_Kiya_Welcome_Song.mp3",
     "imageUrl": "path/to/image1.jpg"
   },
-  
   {
     "title": "Chura Liya Hai Tumne Jo Dil Ko",
     "subtitle": "Zeenat Aman, Asha Bhosle",
     "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/Chura%20Liya%20Hai%20Tumne%20Jo%20Dil%20Ko%20_%20Lyrical%20_%20Zeenat%20Aman%20_%20Asha%20Bhosle(MP3_160K).mp3",
     "imageUrl": "https://imgs.search.brave.com/Ikz7zKHvoF814B1rofzXY9u1cdGZMpn__Migka9M3Mo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hMTAu/Z2FhbmFjZG4uY29t/L2duX2ltZy9hbGJ1/bXMvYTdMV0JhejN6/WC83TFdCREVkS3pY/L3NpemVfbS5qcGc"
-  },
-  {
-    "title": "ओल्हा में पटोला Olha Song",
-    "subtitle": "Ajay Hooda, Masoom Sharma, Pooja Hooda, Haryanvi DJ",
-    "songUri": "path/to/Olha_Me_Patola_1.mp3",
-    "imageUrl": "path/to/image3.jpg"
-  },
-  
-  {
-    "title": "Mere Mehboob Qayamat Hogi",
-    "subtitle": "Kishore Kumar, Mr. X In Bombay",
-    "songUri": "path/to/Mere_Mehboob_Qayamat_Hogi.mp3",
-    "imageUrl": "path/to/image5.jpg"
-  },
- 
-  {
-    "title": "Shake It To The Max (Fly) [Remix]",
-    "subtitle": "MOLIY, Shenseea, Skillibeng, Silent Addy",
-    "songUri": "path/to/Shake_It_To_The_Max.mp3",
-    "imageUrl": "path/to/image7.jpg"
-  },
-  {
-    "title": "ओल्हा में पटोला Olha Song",
-    "subtitle": "Ajay Hooda, Masoom Sharma, Pooja Hooda, Haryanvi DJ",
-    "songUri": "path/to/Olha_Me_Patola_2.mp3",
-    "imageUrl": "path/to/image8.jpg"
-  },
-  {
-    "title": "Nangad",
-    "subtitle": "Pranjal Dahiya, Aman Jaji, Shiva Choudhary, Surender Romio, RM",
-    "songUri": "path/to/Nangad.mp3",
-    "imageUrl": "path/to/image9.jpg"
-  },
-  {
-    "title": "Konya Bethu Rai Bullet Par Lao Kali Thar",
-    "subtitle": "Sushil Tor",
-    "songUri": "path/to/Konya_Bethu_Rai.mp3",
-    "imageUrl": "path/to/image10.jpg"
-  },
-  
-  {
-    "title": "Nazrein Karam",
-    "subtitle": "Jashnn (2009)",
-    "songUri": "path/to/Nazrein_Karam.mp3",
-    "imageUrl": "path/to/image12.jpg"
-  },
- 
-  {
-    "title": "Zara Sa",
-    "subtitle": "Emraan Hashmi, KK, Old Hindi Song",
-    "songUri": "path/to/Zara_Sa.mp3",
-    "imageUrl": "path/to/image14.jpg"
   },
   {
     "title": "Demons In My Head",
@@ -99,5 +46,29 @@
     "subtitle": "Guru Randhawa, Renuka Panwar, JSL Singh",
     "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/KARIZMA%20-%20Guru%20Randhawa%20ft.%20Renuka%20Panwar%20_%20Jsl%20Singh(MP3_160K).mp3",
     "imageUrl": "https://imgs.search.brave.com/lvQivm0actrm15nBvxTedD73E4FiWUHfD9G1RKac5pM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLWVaTGhJ/d3o0NkJZYS0wLXQx/MDgweDEwODAuanBn"
+  },
+  {
+    "title": "Kiya Kiya Welcome Song",
+    "subtitle": "Akshay Kumar, Katrina Kaif, Nana Patekar, Anil Kapoor, Mallika",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/Kiya%20Kiya%20Welcome%20Song%20_%20Akshay%20Kumar%20_%20Katrina%20Kaif%20_%20Nana%20Patekar%20_%20Anil%20Kapoor%20Mallika(MP3_160K).mp3",
+    "imageUrl": "path/to/image.jpg"
+  },
+  {
+    "title": "Mere Mehboob Qayamat Hogi (Original)",
+    "subtitle": "Mr. X In Bombay, Kishore Kumar",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/Mere%20Mehboob%20Qayamat%20Hogi%20%20(Original)%20-%20Mr.%20X%20In%20Bombay%20-%20Kishore%20Kumar_s%20Greatest%20Hits%20-%20Old%20Songs(MP3_160K).mp3",
+    "imageUrl": "path/to/image.jpg"
+  },
+  {
+    "title": "Shake It To The Max (Fly) (Remix)",
+    "subtitle": "MOLIY, Shenseea, Skillibeng, Silent Addy",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/MOLIY_%20Shenseea_%20Skillibeng_%20Silent%20Addy%20-%20Shake%20It%20To%20The%20Max%20(Fly)%20(Remix)%20(OFFICIAL%20MUSIC%20VIDEO)(MP3_160K).mp3",
+    "imageUrl": "path/to/image.jpg"
+  },
+  {
+    "title": "Nangad (Official Music Video)",
+    "subtitle": "Pranjal Dahiya, Aman Jaji, Shiva Choudhary, Surender Romio, RM",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/Nangad%20(Official%20Music%20Video)%20-%20Pranjal%20Dahiya%20_%20Aman%20Jaji%20_%20Shiva%20Choudhary%20_%20Surender%20Romio%20_%20RM(MP3_160K).mp3",
+    "imageUrl": "path/to/image.jpg"
   }
 ]
