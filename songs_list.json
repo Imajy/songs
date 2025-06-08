@@ -10,5 +10,89 @@
     "subtitle": "AlbumName - ArtistName",
     "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/second_song.mp3",
     "imageUrl": "https://example.com/album_art_2.jpg"
+  },
+  {
+    "title": "Kiya Kiya Welcome Song",
+    "subtitle": "Akshay Kumar, Katrina Kaif, Nana Patekar, Anil Kapoor, Mallika",
+    "songUri": "path/to/Kiya_Kiya_Welcome_Song.mp3",
+    "imageUrl": "path/to/image1.jpg"
+  },
+  {
+    "title": "Chura Liya Hai Tumne Jo Dil Ko",
+    "subtitle": "Zeenat Aman, Asha Bhosle",
+    "songUri": "path/to/Chura_Liya_Hai_Tumne.mp3",
+    "imageUrl": "path/to/image2.jpg"
+  },
+  {
+    "title": "ओल्हा में पटोला Olha Song",
+    "subtitle": "Ajay Hooda, Masoom Sharma, Pooja Hooda, Haryanvi DJ",
+    "songUri": "path/to/Olha_Me_Patola_1.mp3",
+    "imageUrl": "path/to/image3.jpg"
+  },
+  {
+    "title": "Demons In My Head",
+    "subtitle": "Chyde",
+    "songUri": "path/to/Demons_In_My_Head.mp3",
+    "imageUrl": "path/to/image4.jpg"
+  },
+  {
+    "title": "Mere Mehboob Qayamat Hogi",
+    "subtitle": "Kishore Kumar, Mr. X In Bombay",
+    "songUri": "path/to/Mere_Mehboob_Qayamat_Hogi.mp3",
+    "imageUrl": "path/to/image5.jpg"
+  },
+  {
+    "title": "My Inner World",
+    "subtitle": "Chyde",
+    "songUri": "path/to/My_Inner_World.mp3",
+    "imageUrl": "path/to/image6.jpg"
+  },
+  {
+    "title": "Shake It To The Max (Fly) [Remix]",
+    "subtitle": "MOLIY, Shenseea, Skillibeng, Silent Addy",
+    "songUri": "path/to/Shake_It_To_The_Max.mp3",
+    "imageUrl": "path/to/image7.jpg"
+  },
+  {
+    "title": "ओल्हा में पटोला Olha Song",
+    "subtitle": "Ajay Hooda, Masoom Sharma, Pooja Hooda, Haryanvi DJ",
+    "songUri": "path/to/Olha_Me_Patola_2.mp3",
+    "imageUrl": "path/to/image8.jpg"
+  },
+  {
+    "title": "Nangad",
+    "subtitle": "Pranjal Dahiya, Aman Jaji, Shiva Choudhary, Surender Romio, RM",
+    "songUri": "path/to/Nangad.mp3",
+    "imageUrl": "path/to/image9.jpg"
+  },
+  {
+    "title": "Konya Bethu Rai Bullet Par Lao Kali Thar",
+    "subtitle": "Sushil Tor",
+    "songUri": "path/to/Konya_Bethu_Rai.mp3",
+    "imageUrl": "path/to/image10.jpg"
+  },
+  {
+    "title": "Jo Tere Sang",
+    "subtitle": "Blood Money, Kunal Khemu, Mustafa Zahid",
+    "songUri": "path/to/Jo_Tere_Sang.mp3",
+    "imageUrl": "path/to/image11.jpg"
+  },
+  {
+    "title": "Nazrein Karam",
+    "subtitle": "Jashnn (2009)",
+    "songUri": "path/to/Nazrein_Karam.mp3",
+    "imageUrl": "path/to/image12.jpg"
+  },
+  {
+    "title": "KARIZMA",
+    "subtitle": "Guru Randhawa, Renuka Panwar, Jsl Singh",
+    "songUri": "path/to/Karizma.mp3",
+    "imageUrl": "path/to/image13.jpg"
+  },
+  {
+    "title": "Zara Sa",
+    "subtitle": "Emraan Hashmi, KK, Old Hindi Song",
+    "songUri": "path/to/Zara_Sa.mp3",
+    "imageUrl": "path/to/image14.jpg"
   }
 ]
