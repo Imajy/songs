@@ -1,0 +1,14 @@
+[
+  {
+    "title": "God Damn (Official Video)",
+    "subtitle": "Ek THA RAJA - Hiten",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/God%20Damn%20(Official%20Video)%20_%20Hiten%20_%20Ek%20THA%20RAJA(MP3_160K).mp3",
+    "imageUrl": "https://example.com/album_art_1.jpg"
+  },
+  {
+    "title": "Second Song Title",
+    "subtitle": "AlbumName - ArtistName",
+    "songUri": "https://raw.githubusercontent.com/Imajy/songs/main/second_song.mp3",
+    "imageUrl": "https://example.com/album_art_2.jpg"
+  }
+]
