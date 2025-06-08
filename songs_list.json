@@ -17,12 +17,13 @@
     "songUri": "path/to/Kiya_Kiya_Welcome_Song.mp3",
     "imageUrl": "path/to/image1.jpg"
   },
-  {
-    "title": "Chura Liya Hai Tumne Jo Dil Ko",
-    "subtitle": "Zeenat Aman, Asha Bhosle",
-    "songUri": "path/to/Chura_Liya_Hai_Tumne.mp3",
-    "imageUrl": "path/to/image2.jpg"
-  },
+  SongsDto(
+    title = "Chura Liya Hai Tumne Jo Dil Ko",
+    subtitle = "Zeenat Aman, Asha Bhosle",
+    songUri = "https://raw.githubusercontent.com/Imajy/songs/main/Chura%20Liya%20Hai%20Tumne%20Jo%20Dil%20Ko%20_%20Lyrical%20_%20Zeenat%20Aman%20_%20Asha%20Bhosle(MP3_160K).mp3",
+    imageUrl = "https://imgs.search.brave.com/Ikz7zKHvoF814B1rofzXY9u1cdGZMpn__Migka9M3Mo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hMTAu/Z2FhbmFjZG4uY29t/L2duX2ltZy9hbGJ1/bXMvYTdMV0JhejN6/WC83TFdCREVkS3pY/L3NpemVfbS5qcGc"
+)
+
   {
     "title": "ओल्हा में पटोला Olha Song",
     "subtitle": "Ajay Hooda, Masoom Sharma, Pooja Hooda, Haryanvi DJ",
